@@ -1,4 +1,4 @@
-namespace HomeWorkDotnet.Models {
+namespace thaiNews.Models {
     public partial class Item {
         public string Title { get; set; }
 
